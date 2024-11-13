@@ -326,18 +326,18 @@ a{
     transform: scaleX(1);
 }
 #project1{
-    background-image: url('./images/Project\ Photos/Project1.png');
+    background-image: url('./images/images/Project\ Photos/Project1.png');
 }
 #project2{
-    background-image: url('./images/Project\ Photos/Project2.png');
+    background-image: url('./images/images/Project\ Photos/Project2.png');
     margin-left: 120px;
 }
 #project3{
-    background-image: url('./images/Project\ Photos/Project3.png');
+    background-image: url('./images/images/Project\ Photos/Project3.png');
 }
 #project4{
     margin-left: 120px;
-    background-image: url('./images/Project\ Photos/Project4.png');
+    background-image: url('./images/images/Project\ Photos/Project4.png');
 }
 .project-number{
     position: absolute;
